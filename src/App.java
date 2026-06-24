@@ -40,5 +40,21 @@ public class App {
         // //         a*= 30;
         // //         a/= 2;
         // //         a%= 2;
+        // ----------------------------------------------------------------------------
+                // //     // * Relational operators :
+        // //         System.out.println("a > b: " + (a > b));
+        // //         System.out.println("a < b: " + (a < b));
+        // //         System.out.println("a >= b: " + (a >= b));
+        // //         System.out.println("a <= b: " + (a <= b));
+        // //         System.out.println("a == c: " + (a == c));
+        // //         System.out.println("a != c: " + (a != c));
+        // //     // * Logical operators :
+        // //         System.out.println("x && y: " + (x && y));
+        // //         System.out.println("x || y: " + (x || y));
+        // //         System.out.println("!x: " + (!x));
+        // //     // * Ternary operators :
+        // //         int result = ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
+        // //         System.out.println("Max of three numbers = "+ result);
+        // // ----------------------------------------------------------------------------
 }
 
