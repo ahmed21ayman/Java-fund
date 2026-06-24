@@ -131,5 +131,28 @@ public class App {
         //                 System.out.println("more than 5");
         //     }
         // // ----------------------------------------------------------------------------
+                // // # For Loop :
+        //     // * For Loop :
+        //         for(int i=0; i<=10; i++){
+        //             System.out.println(i);
+        //         };
+        //     // * While Loop :
+        //         int j = 0;
+        //         while (j<10) {
+        //             System.out.println(j);
+        //             j++;
+        //         }
+        //     // * Do-While Loop :
+        //         int k=0;
+        //         do {
+        //             System.out.println(k);
+        //             k++;
+        //         } while (k<9);
+        //     // * For Each Loop :
+        //         String[] names = {"ahmed", "ayman", "abdelfatah"};
+        //         for (String name : names) {
+        //             System.out.println(name);
+        //         }
+        // // ----------------------------------------------------------------------------
 }
 
