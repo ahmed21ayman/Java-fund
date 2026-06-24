@@ -154,5 +154,25 @@ public class App {
         //             System.out.println(name);
         //         }
         // // ----------------------------------------------------------------------------
+              // # methods :
+            sum(12,12);
+            multiply(100, 10);
+            divide(100, 10);
+            message("Ayman");
+    }
+    // ----------------------------------------------------------------------------
+    // # methods :
+    public static void sum(int a, int b){
+    System.out.println(a+b);
+    }
+    public static void multiply(int a, int b){
+        System.out.println(a*b);
+    }
+    public static void divide(int a, int b){
+        System.out.println(a/b);
+    }
+    public static void message(String name){
+        System.out.println("hello "+ name);
+    }
 }
 
