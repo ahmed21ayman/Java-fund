@@ -56,5 +56,80 @@ public class App {
         // //         int result = ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
         // //         System.out.println("Max of three numbers = "+ result);
         // // ----------------------------------------------------------------------------
+                // // # conditional statements : 
+        //     // * if-else :
+        //         // - if :
+        //             int i = 1;
+        //             if(i<5){
+        //                 System.out.println(i+" < 5 sure");
+        //             }
+        //         // - if-else :
+        //             if(i<5){
+        //                 System.out.println(i+" < 5 sure");
+        //             }else {
+        //                 System.out.println(i+" > 5 sure");
+        //             }
+        //         // - if-else-if :
+        //             if(i<=5){
+        //                 System.out.println(i+" < 5 sure");
+        //             }else if(i>=5){
+        //                 System.out.println(i+" > 5 sure");
+        //             }else if(i!=5){
+        //                 System.out.println(i+" > 5 sure");
+        //             }else{
+        //                 System.out.println(i+" > 5 sure");
+        //             }
+        //         // - nested if :
+        //             if(i<=5){
+        //                 if(i>=0 && i<=3){
+        //                     System.out.println(i+" < 5 sure & grater than 0 & less than 3");
+        //                 }else if(i>3){
+        //                     System.out.println(i+" less than 5 & greater than 3");
+        //                 }
+        //             }else if(i>=5){
+        //                 if(i>=0 && i<=3){
+        //                     System.out.println(i+" < 5 sure & grater than 0 & less than 3");
+        //                 }else if(i>3){
+        //                     System.out.println(i+" less than 5 & greater than 3");
+        //                 }
+        //             }else if(i!=5){
+        //                 if(i>=0 && i<=3){
+        //                     System.out.println(i+" < 5 sure & grater than 0 & less than 3");
+        //                 }else if(i>3){
+        //                     System.out.println(i+" less than 5 & greater than 3");
+        //                 }
+        //             }else{
+        //                 if(i>=0 && i<=3){
+        //                     System.out.println(i+" < 5 sure & grater than 0 & less than 3");
+        //                 }else if(i>3){
+        //                     System.out.println(i+" less than 5 & greater than 3");
+        //                 }
+        //             }
+        //     // * (conditional) ? true : false  :
+        //             int test = (i<5)? i: ++i;
+        //     // * switch :
+        //         switch (i) {
+        //             case 0:
+        //                 System.out.println(0);
+        //                 break;
+        //             case 1:
+        //                 System.out.println(1);
+        //                 break;
+        //             case 2:
+        //                 System.out.println(2);
+        //                 break;
+        //             case 3:
+        //                 System.out.println(3);
+        //                 break;
+        //             case 4:
+        //                 System.out.println(4);
+        //                 break;
+        //             case 5:
+        //                 System.out.println(5);
+        //                 break;
+        //         default:
+        //                 System.out.println("more than 5");
+        //     }
+        // // ----------------------------------------------------------------------------
 }
 
